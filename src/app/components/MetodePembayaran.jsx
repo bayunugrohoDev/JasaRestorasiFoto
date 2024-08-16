@@ -10,7 +10,7 @@ const MetodePembayaran = () => {
         title={"Metode Pembayaran Jasa Restorasi Foto"}
         subtitle={
           <p>
-            Konsumen bisa melakukan pembayaran layanan di tempat kami dengan berbagai metode yang bisa dipilih. Adapun metode pembayaran yang tersedia adalah sebagai berikut:
+            Konsumen bisa melakukan pembayaran layanan di tempat kami dengan berbagai metode yang bisa dipilih. <br /> Adapun metode pembayaran yang tersedia adalah sebagai berikut:
           </p>
         }
       >
