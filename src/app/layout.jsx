@@ -8,6 +8,12 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Jasa Restorasi Foto",
   description: "Jasa Restorasi Foto | Terpercaya, Profesional, dan Termurah",
+  other: [
+    {
+      name: 'google-site-verification',
+      content: 'pOvKPLUckaDtVXFBjlH1M_fZj0J7VXP-lo_ALwKnye4',
+    },
+  ],
 };
 
 export default function RootLayout({ children }) {
